@@ -1,8 +1,8 @@
-debathena-locker-menu (1.12) UNRELEASED; urgency=medium
+debathena-locker-menu (1.12) unstable; urgency=medium
 
   * Add debian/gbp.conf.
 
- -- Anders Kaseorg <andersk@mit.edu>  Sun, 13 Nov 2016 20:43:30 -0500
+ -- Anders Kaseorg <andersk@mit.edu>  Sun, 13 Nov 2016 20:44:18 -0500
 
 debathena-locker-menu (1.11) unstable; urgency=medium
 
