@@ -1,3 +1,9 @@
+debathena-locker-menu (1.12) UNRELEASED; urgency=medium
+
+  * Add debian/gbp.conf.
+
+ -- Anders Kaseorg <andersk@mit.edu>  Sun, 13 Nov 2016 20:43:30 -0500
+
 debathena-locker-menu (1.11) unstable; urgency=medium
 
   * Switch to source format 3.0 (native).
